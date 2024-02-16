@@ -1,0 +1,82 @@
+[
+  {
+    "id": "74b5aceabfb07d635a95fa91",
+    "name": "Refined Cotton Mouse",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "netPrice": 5006,
+    "weight": 1272,
+    "discount": 0.47
+  },
+  {
+    "id": "7adadfceeaadcab60993cadb",
+    "name": "Awesome Cotton Keyboard",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "netPrice": 9901,
+    "weight": 835,
+    "discount": 0.46
+  },
+  {
+    "id": "cd5c25fed2083b66eaaf234b",
+    "name": "Handcrafted Cotton Keyboard",
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "netPrice": 7101,
+    "weight": 1642,
+    "discount": 0.83
+  },
+  {
+    "id": "dbdcafcfb57d8bff2ef57c9a",
+    "name": "Ergonomic Plastic Car",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "netPrice": 5453,
+    "weight": 172,
+    "discount": 0.63
+  },
+  {
+    "id": "74bfd2de4fdcffdd2c71dbf1",
+    "name": "Awesome Bronze Soap",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "netPrice": 5021,
+    "weight": 1142,
+    "discount": 0.27
+  },
+  {
+    "id": "a96c1d77d9d1b79dfdca2a3c",
+    "name": "Fantastic Soft Gloves",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "netPrice": 91,
+    "weight": 628,
+    "discount": 0.6
+  },
+  {
+    "id": "552e920cced5d6af24beb230",
+    "name": "Rustic Rubber Mouse",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "netPrice": 2849,
+    "weight": 985,
+    "discount": 0.41
+  },
+  {
+    "id": "ad3cdcebdf2ffb3d9be75f6c",
+    "name": "Bespoke Rubber Ball",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "netPrice": 6700,
+    "weight": 1559,
+    "discount": 0.9
+  },
+  {
+    "id": "d728bb1e8bb2ffcbbc53ffeb",
+    "name": "Sleek Metal Keyboard",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "netPrice": 5119,
+    "weight": 1642,
+    "discount": 0.95
+  },
+  {
+    "id": "b33aaae91ec2ebca00edc04d",
+    "name": "Sleek Granite Pizza",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "netPrice": 9659,
+    "weight": 135,
+    "discount": 0.87
+  }
+]

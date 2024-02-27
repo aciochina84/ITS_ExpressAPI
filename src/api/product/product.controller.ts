@@ -27,3 +27,4 @@ export const detail = async (
 };
 
 // -------------------------------------------------------------------------------
+// gestisce la richiesta del utente

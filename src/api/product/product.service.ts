@@ -1,7 +1,9 @@
 import PRODUCTS from '../../../products.json';
 import { Product } from './product.entity';
 
+// *********************************************************************
 export class ProductService {
+  // -------------------------------------------------------------------
   async find(search?: string): Promise<Product[]> {
     let results = PRODUCTS;
     if (search) {
@@ -12,13 +14,15 @@ export class ProductService {
     }
     return results;
   }
-
+  // --------------------------------------------------------------------
   async getById(id: string): Promise<Product | undefined> {
     return PRODUCTS.find((item) => {
       return item.id === id;
     });
   }
 }
+
+// **********************************************************************
 
 export default new ProductService();
 // exporta direct o istanta chiar si methodele clasei

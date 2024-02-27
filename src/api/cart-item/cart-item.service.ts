@@ -24,7 +24,7 @@ export class CartItemService {
     return toAdd;
   }
 
-  async list() {
+  list() {
     return CART;
   }
 
@@ -33,12 +33,13 @@ export class CartItemService {
     // Omite id-ul
 
     const existing = CART.find((element) => element.id === id);
-    if (existing) {
+    if (!existing) {
       return null;
     }
 
-    Object.assign(existing, data); // ia toate proprietatile care sunt in data si le pune la dispozi
+    Object.assign(existing, data);
     // existing.quantity = quantity;
+    // ia toate proprietatile care sunt in data si le pune la dispozi
     return existing;
   }
 }

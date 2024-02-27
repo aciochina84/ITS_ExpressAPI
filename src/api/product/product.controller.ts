@@ -13,7 +13,7 @@ export const list = async (req: Request, res: Response, next: NextFunction) => {
 export const detail = async (
   req: Request,
   res: Response,
-  next: NextFunction
+  next: NextFunction,
 ) => {
   const { id } = req.params;
 

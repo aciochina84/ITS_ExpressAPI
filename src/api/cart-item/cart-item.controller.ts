@@ -4,7 +4,7 @@ import cartItemService from './cart-item.service';
 import { CartItem } from './cart-item.entity';
 
 //-------------------------------------------------------------------------------
-export const list = async (req: Request, res: Response, next: NextFunction) => {
+export const list = (req: Request, res: Response) => {
   const items = cartItemService.list();
   res.json(items);
 };
@@ -37,7 +37,7 @@ export const add = async (req: Request, res: Response, next: NextFunction) => {
 export const updateQuantity = async (
   req: Request,
   res: Response,
-  next: NextFunction
+  next: NextFunction,
 ) => {
   const { quantity } = req.body;
   const { id } = req.params;
@@ -51,5 +51,5 @@ export const updateQuantity = async (
 export const remove = async (
   req: Request,
   res: Response,
-  next: NextFunction
+  next: NextFunction,
 ) => {};
